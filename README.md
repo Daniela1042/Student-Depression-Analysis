@@ -34,6 +34,8 @@ Os dados são explorados com o objetivo de identificar padrões e possíveis ass
 
 Foram desenvolvidas visualizações no Tableau para explorar os dados e facilitar a identificação de padrões e relações entre as variáveis.
 
+<img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/f132f395-2649-4792-b5cf-8a989fce0bfd" />
+
 *Esta secção pode incluir capturas de ecrã dos gráficos e dashboards desenvolvidos.*
 
 ## Principais Conclusões
