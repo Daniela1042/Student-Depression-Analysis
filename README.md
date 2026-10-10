@@ -33,10 +33,10 @@ Os dados são explorados com o objetivo de identificar padrões e possíveis ass
 ## Visualizações
 
 Foram desenvolvidas visualizações no Tableau para explorar os dados e facilitar a identificação de padrões e relações entre as variáveis.
+<img width="2518" height="1800" alt="Cap  1" src="https://github.com/user-attachments/assets/be8e4e5c-9403-41c4-b381-f11057e5b7b9" />
+<img width="2600" height="1600" alt="Cap  2" src="https://github.com/user-attachments/assets/4c80ce2e-2a90-4aaf-9758-f164ad073780" />
+<img width="2500" height="1600" alt="Cap  3" src="https://github.com/user-attachments/assets/b05e7c86-45a5-416e-bb1f-99d5f1082478" />
 
-<img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/f132f395-2649-4792-b5cf-8a989fce0bfd" />
-
-*Esta secção pode incluir capturas de ecrã dos gráficos e dashboards desenvolvidos.*
 
 ## Principais Conclusões
 
