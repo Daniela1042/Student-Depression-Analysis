@@ -38,10 +38,6 @@ Foram desenvolvidas visualizações no Tableau para explorar os dados e facilita
 <img width="2500" height="1600" alt="Cap  3" src="https://github.com/user-attachments/assets/b05e7c86-45a5-416e-bb1f-99d5f1082478" />
 
 
-## Principais Conclusões
-
-Nesta secção serão apresentados os principais resultados identificados durante a análise, com base nas visualizações e nos dados explorados.
-
 ## Estrutura do Projeto
 
 - `Student-Depression-Analysis.twbx` — ficheiro do projeto Tableau, caso esteja disponível.
